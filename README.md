@@ -26,6 +26,8 @@ MD5: 041AA7C4812BDD3CA17A8C238A818C6B
 SHA1: 51A85CBCD079C8C2BFD4484F562632B1CCF3A535
 ```
 
+如果下载速度慢，[百度网盘](https://pan.baidu.com/s/1YsPlMJ2IVW7y-7vJYV9iZw) 提取码:`tmm9`
+
 **如果觉得作者给你提供了一点帮助，请他喝一杯咖啡吧**
 
 ![img](pay.png)

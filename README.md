@@ -1,5 +1,7 @@
 # Huawei_PCManager_NB
 
+<font color="red">最新：正在攻克最新版10.1，尽情期待。由于公众号不方便发布零散消息，欢迎关注微博（[汉客儿](https://weibo.com/anhkgg)）获取最新消息。</font>
+
 在华为电脑管家`PCManager`基础上做了一点修改，让`PCManager`支持在非华为系电脑（以及美版华为电脑）运行，完美支持多屏协同功能。
 
 # 更新
